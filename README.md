@@ -1,1 +1,1 @@
-The goal of this project is to 
+This is designed  for the  IBM Capstone project.
